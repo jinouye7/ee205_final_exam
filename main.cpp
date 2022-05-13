@@ -14,5 +14,4 @@ int main() {
               << myRectangle.compute_area()
               << std::endl;
     return 0;
-    return 0;
 }
